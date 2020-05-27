@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container" type="id" />
+
+    <!--避免了tag的重复-->
+    <item name="id_type_text" type="id" />
+    <item name="id_type_image" type="id" />
+    <item name="id_type_text_image" type="id" />
+    <item name="id_type_banner" type="id" />
+    <item name="id_type_vertical_menu_list" type="id" />
+    <item name="id_shop_cart" type="id" />
+    <item name="id_goods_detail_image" type="id" />
+</resources>
